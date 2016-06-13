@@ -1,7 +1,7 @@
-$project
+Project
 ========
 
-This $project contains documentation.
+This project contains documentation.
 
 Features
 --------
