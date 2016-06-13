@@ -1,15 +1,4 @@
-Project
+StorPool Public Knowledge Base
 ========
-This project contains documentation.
+Public place for extraordinary knowledge base.
 
-Features
---------
-- Make things better
-
-Support
--------
-If you are having issues, please let us know.
-
-License
--------
-The project is licensed under the MIT license.
